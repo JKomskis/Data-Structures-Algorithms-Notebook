@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="126.81713mm"
+   height="60.667912mm"
+   viewBox="0 0 126.81713 60.667912"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="queue_interface.svg">
+  <defs
+     id="defs2">
+    <marker
+       inkscape:stockid="TriangleOutL"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="TriangleOutL"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path1023"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="scale(0.8)"
+         inkscape:connector-curvature="0" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="63.451364"
+     inkscape:cy="64.854784"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1500"
+     inkscape:window-height="937"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-12.161898,-14.898148)">
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.22305906;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect10"
+       width="54.297661"
+       height="20.354425"
+       x="12.273428"
+       y="15.009678" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:6.3499999px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="38.747036"
+       y="22.514194"
+       id="text14"><tspan
+         sodipodi:role="line"
+         id="tspan12"
+         x="38.747036"
+         y="22.514194"
+         style="text-align:center;text-anchor:middle;stroke-width:0.26458332">&lt;&lt;interface&gt;&gt;</tspan><tspan
+         sodipodi:role="line"
+         x="38.747036"
+         y="30.451694"
+         style="text-align:center;text-anchor:middle;stroke-width:0.26458332"
+         id="tspan16">Queue</tspan></text>
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.22305906;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect10-4"
+       width="54.297665"
+       height="20.354425"
+       x="12.941598"
+       y="55.100105" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:6.3499999px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="39.415207"
+       y="62.604622"
+       id="text14-0"><tspan
+         sodipodi:role="line"
+         x="39.415207"
+         y="62.604622"
+         style="text-align:center;text-anchor:middle;stroke-width:0.26458332"
+         id="tspan16-0">Bounded</tspan><tspan
+         sodipodi:role="line"
+         x="39.415207"
+         y="70.542122"
+         style="text-align:center;text-anchor:middle;stroke-width:0.26458332"
+         id="tspan68">Queue</tspan></text>
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.22305906;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect10-4-6"
+       width="54.297668"
+       height="20.354425"
+       x="84.569832"
+       y="55.100105" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:6.3499999px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="111.04344"
+       y="62.604622"
+       id="text14-0-9"><tspan
+         sodipodi:role="line"
+         x="111.04344"
+         y="62.604622"
+         style="text-align:center;text-anchor:middle;stroke-width:0.26458332"
+         id="tspan16-0-7">Unbounded</tspan><tspan
+         sodipodi:role="line"
+         x="111.04344"
+         y="70.542122"
+         style="text-align:center;text-anchor:middle;stroke-width:0.26458332"
+         id="tspan72">Queue</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.43420199;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1.73680785, 1.73680785;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#TriangleOutL)"
+       d="m 39.823159,55.388345 v -17.7109"
+       id="path74"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.43399999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1.736, 1.736;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 111.18412,54.586539 V 44.430296 H 39.823159"
+       id="path1259"
+       inkscape:connector-curvature="0" />
+  </g>
+</svg>

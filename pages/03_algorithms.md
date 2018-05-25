@@ -45,6 +45,7 @@ Used to efficiently find optimal solutions to optimization problems that would o
 E.g. checkers - tree of all choices
 
 Often use heuristics to make the decision - when heuristics are used, the solution may be optimal but may also be near optimal (depending on how good the heuristic is).
+
 *   Heuristic - a rule of thumb, works most of the time, not guaranteed to always work.
 
 E.g. widely used in game AI for move planning
@@ -74,6 +75,7 @@ E.g. choosing random element for quicksort algorithm
 *   Etc.
 
 **Why are there so many algorithms to do the same thing? For instance, there are a bazillion and 3 sorting algorithms (at this moment). Why?**
+
 *   Implementation ease
 *   Execution speed
     *   Generalized case
