@@ -1,5 +1,0 @@
-graph {
-    a -- b[label="1"];
-    b -- c[label="3"];
-    a -- c[label="7"];
-}
